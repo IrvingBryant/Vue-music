@@ -1,0 +1,1113 @@
+{
+  "code": 0,
+  "data": {
+    "SingerDesc": "刘德华1961年9月27日生于香港，演员、歌手、词作人、制片人，影视歌多栖发展的代表艺人之一，也是位有使命感的电影人。 1981年以全优成绩毕业于TVB艺训班签约出道，1982年凭《猎鹰》大红，名列“无线五虎”；1983年主演《神雕侠侣》在香港创62点收视纪录，后因拒签五年长约被TVB雪藏。 1982年初涉影坛，相继主演《投奔怒海》、《法外情》、《天若有情》、《暗战》、《无间道》、《盲探》等佳作。至2013年已获3届金像奖最佳男主角奖、2届金马奖最佳男主角奖，2005年获颁香港院线“1985-2005年全港最高累积票房香港男演员”奖，2006年被授予香港演艺学院荣誉院士。 1991年创办电影公司，2005年发起亚洲新星导计划，其出品电影《香港制造》、《疯狂的石头》、《桃姐》等声名远扬。2005年成为华语电影传媒大奖中国电影百年形象大使，2006年获釜山国际电影节亚洲最有贡献电影人大奖，2012-2013年出任第49届金马奖及第七届亚洲电影大奖评审团主席。 1985年首发专辑，1990年凭专辑《可不可以》走红歌坛，《忘情水》、《中国人》、《今天》等歌曲广为传唱。至2013年已发行正式专辑近50张，唱片总数愈100张。六夺TVB最受欢迎男歌星奖，是吉尼斯世界纪录中获奖最多的香港男歌手 。 演艺事业外，刘德华热心公益慈善，1994年创立“刘德华慈善基金会”，2000年被评为“世界十大杰出青年”，2008年被委任香港非官守太平绅士，2010年获颁“世界杰出华人奖”，同年起任中国残疾人福利基金会理事并担任副理事长。2016年连任中国残疾人福利基金会副理事长。",
+    "albumTotal": 120,
+    "albumlist": [
+      {
+        "albummid": "0001XmD20k5a9G",
+        "id": 1983426,
+        "name": "慢慢习惯",
+        "pic": "http://y.gtimg.cn/music/photo_new/T002R150x150M0000001XmD20k5a9G.jpg",
+        "publish_date": "2017-04-07",
+        "strAlbumTran": "",
+        "url": "http://y.qq.com/v3/static/album/26/album_1983426_0.json.z"
+      },
+      {
+        "albummid": "0017PV7Q0xng2C",
+        "id": 1601715,
+        "name": "笑一笑",
+        "pic": "http://y.gtimg.cn/music/photo_new/T002R150x150M0000017PV7Q0xng2C.jpg",
+        "publish_date": "2016-09-12",
+        "strAlbumTran": "",
+        "url": "http://y.qq.com/v3/static/album/15/album_1601715_0.json.z"
+      },
+      {
+        "albummid": "000iL7Yy04QxFw",
+        "id": 1364026,
+        "name": "爱永远存在",
+        "pic": "http://y.gtimg.cn/music/photo_new/T002R150x150M000000iL7Yy04QxFw.jpg",
+        "publish_date": "2016-05-09",
+        "strAlbumTran": "",
+        "url": "http://y.qq.com/v3/static/album/26/album_1364026_0.json.z"
+      },
+      {
+        "albummid": "004ZrpRK2Lpf9z",
+        "id": 1301003,
+        "name": "原谅我（粤语）",
+        "pic": "http://y.gtimg.cn/music/photo_new/T002R150x150M000004ZrpRK2Lpf9z.jpg",
+        "publish_date": "2016-03-18",
+        "strAlbumTran": "",
+        "url": "http://y.qq.com/v3/static/album/3/album_1301003_0.json.z"
+      },
+      {
+        "albummid": "003QsISS35GXYy",
+        "id": 1299897,
+        "name": "原谅我",
+        "pic": "http://y.gtimg.cn/music/photo_new/T002R150x150M000003QsISS35GXYy.jpg",
+        "publish_date": "2016-03-17",
+        "strAlbumTran": "",
+        "url": "http://y.qq.com/v3/static/album/97/album_1299897_0.json.z"
+      },
+      {
+        "albummid": "001SfuLf1uQyuW",
+        "id": 1275725,
+        "name": "恭喜发财 2016",
+        "pic": "http://y.gtimg.cn/music/photo_new/T002R150x150M000001SfuLf1uQyuW.jpg",
+        "publish_date": "2016-01-18",
+        "strAlbumTran": "",
+        "url": "http://y.qq.com/v3/static/album/25/album_1275725_0.json.z"
+      }
+    ],
+    "color": 10510432,
+    "fans": 2870688,
+    "list": [
+      {
+        "Flisten_count1": "107127369",
+        "Fupload_time": "2006-08-23 10:24:25",
+        "index": 1,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "《来生缘》粤语版|《至尊无上II之永霸天下》电影主题曲",
+          "albumid": 13627,
+          "albummid": "001MYVwe23zYvz",
+          "albumname": "一起走过的日子",
+          "alertid": 100002,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 236,
+          "isonly": 1,
+          "label": "4611686018431582210",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 28970,
+            "tryend": 55552,
+            "trysize": 426317
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 3777224,
+          "size320": 9495503,
+          "size5_1": 0,
+          "sizeape": 23297862,
+          "sizeflac": 23931671,
+          "sizeogg": 5157425,
+          "songid": 153811,
+          "songmid": "004FvJ4U0Ipopf",
+          "songname": "一起走过的日子",
+          "songorig": "一起走过的日子",
+          "songtype": 0,
+          "strMediaMid": "004FvJ4U0Ipopf",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "a00260ji4ei"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1458289",
+          "Fstatus": "1",
+          "Fvid": "a00260ji4ei"
+        }
+      },
+      {
+        "Flisten_count1": "105633064",
+        "Fupload_time": "2005-11-08 17:04:31",
+        "index": 2,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "《一起走过的日子》国语版",
+          "albumid": 8269,
+          "albummid": "004A6KAD4ZoIub",
+          "albumname": "来生缘",
+          "alertid": 100021,
+          "belongCD": 7,
+          "cdIdx": 0,
+          "interval": 236,
+          "isonly": 1,
+          "label": "4611686018431582209",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 106240,
+            "tryend": 133660,
+            "trysize": 439692
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 3790854,
+          "size320": 9479490,
+          "size5_1": 0,
+          "sizeape": 23433887,
+          "sizeflac": 24081807,
+          "sizeogg": 5080128,
+          "songid": 98538,
+          "songmid": "0032qfIn1Tzdbq",
+          "songname": "来生缘",
+          "songorig": "来生缘",
+          "songtype": 0,
+          "strMediaMid": "0032qfIn1Tzdbq",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "y00222n6qq3"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1068912",
+          "Fstatus": "1",
+          "Fvid": "y00222n6qq3"
+        }
+      },
+      {
+        "Flisten_count1": "105112870",
+        "Fupload_time": "2014-07-22 12:23:04",
+        "index": 3,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 8267,
+          "albummid": "003V9RQC25xddw",
+          "albumname": "爱在刻骨铭心时",
+          "alertid": 100002,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 277,
+          "isonly": 1,
+          "label": "4611686018435776513",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 4440180,
+          "size320": 11100151,
+          "size5_1": 0,
+          "sizeape": 28768958,
+          "sizeflac": 29392348,
+          "sizeogg": 6419588,
+          "songid": 7091652,
+          "songmid": "0041Ce4o4UPUmu",
+          "songname": "冰雨",
+          "songorig": "冰雨",
+          "songtype": 0,
+          "strMediaMid": "0041Ce4o4UPUmu",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "y0011qxkuhs"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "169448",
+          "Fstatus": "1",
+          "Fvid": "y0011qxkuhs"
+        }
+      },
+      {
+        "Flisten_count1": "104911240",
+        "Fupload_time": "2014-07-22 12:23:04",
+        "index": 4,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "《黑金》电影主题曲",
+          "albumid": 8267,
+          "albummid": "003V9RQC25xddw",
+          "albumname": "爱在刻骨铭心时",
+          "alertid": 100002,
+          "belongCD": 10,
+          "cdIdx": 0,
+          "interval": 257,
+          "isonly": 1,
+          "label": "4611686018435776512",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 4123791,
+          "size320": 10309169,
+          "size5_1": 0,
+          "sizeape": 27340515,
+          "sizeflac": 28119567,
+          "sizeogg": 6371257,
+          "songid": 7091650,
+          "songmid": "0045RzZ24AiYP4",
+          "songname": "世界第一等",
+          "songorig": "世界第一等",
+          "songtype": 0,
+          "strMediaMid": "0045RzZ24AiYP4",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "n0023hcyvcq"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1302099",
+          "Fstatus": "1",
+          "Fvid": "n0023hcyvcq"
+        }
+      },
+      {
+        "Flisten_count1": "104833720",
+        "Fupload_time": "2014-10-14 17:17:42",
+        "index": 5,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "《我的少女时代》电影插曲",
+          "albumid": 20093,
+          "albummid": "004PDB6S0DGTmZ",
+          "albumname": "忘情水",
+          "alertid": 100002,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 264,
+          "isonly": 1,
+          "label": "4611686018431582209",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 4230776,
+          "size320": 10576651,
+          "size5_1": 0,
+          "sizeape": 25158084,
+          "sizeflac": 26807087,
+          "sizeogg": 5769409,
+          "songid": 8151482,
+          "songmid": "001VNZ7u2BWZhs",
+          "songname": "忘情水",
+          "songorig": "忘情水",
+          "songtype": 0,
+          "strMediaMid": "001VNZ7u2BWZhs",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "n0026c2n928"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "64708",
+          "Fstatus": "1",
+          "Fvid": "n0026c2n928"
+        }
+      },
+      {
+        "Flisten_count1": "104802790",
+        "Fupload_time": "2015-03-31 10:08:16",
+        "index": 6,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 39300,
+          "albummid": "003I6tYD3eGhER",
+          "albumname": "如果有一天",
+          "alertid": 100002,
+          "belongCD": 3,
+          "cdIdx": 0,
+          "interval": 242,
+          "isonly": 1,
+          "label": "4611686018435776514",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 3883874,
+          "size320": 9709390,
+          "size5_1": 0,
+          "sizeape": 26510523,
+          "sizeflac": 26740771,
+          "sizeogg": 5759644,
+          "songid": 102300586,
+          "songmid": "000HWyhv4UJpLq",
+          "songname": "17岁",
+          "songorig": "17岁",
+          "songtype": 0,
+          "strMediaMid": "000HWyhv4UJpLq",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "c00135kde12"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "46657",
+          "Fstatus": "1",
+          "Fvid": "c00135kde12"
+        }
+      },
+      {
+        "Flisten_count1": "103757020",
+        "Fupload_time": "2015-03-19 14:25:37",
+        "index": 7,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 22336,
+          "albummid": "000JGIuD2BotLz",
+          "albumname": "答案就是你",
+          "alertid": 100002,
+          "belongCD": 3,
+          "cdIdx": 0,
+          "interval": 230,
+          "isonly": 1,
+          "label": "4611686018431582210",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 3681166,
+          "size320": 9202616,
+          "size5_1": 0,
+          "sizeape": 24265118,
+          "sizeflac": 24534741,
+          "sizeogg": 5062019,
+          "songid": 102209103,
+          "songmid": "002qXtuA0vLIWr",
+          "songname": "暗里着迷",
+          "songorig": "暗里着迷",
+          "songtype": 0,
+          "strMediaMid": "002qXtuA0vLIWr",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "o0026ixrzx2"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1458674",
+          "Fstatus": "1",
+          "Fvid": "o0026ixrzx2"
+        }
+      },
+      {
+        "Flisten_count1": "103587740",
+        "Fupload_time": "2006-08-23 10:20:25",
+        "index": 8,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 13604,
+          "albummid": "004Dhl9z3VsEHs",
+          "albumname": "美丽的一天",
+          "alertid": 100002,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 261,
+          "isonly": 1,
+          "label": "4611686018431582209",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 4177629,
+          "size320": 10418855,
+          "size5_1": 0,
+          "sizeape": 25501357,
+          "sizeflac": 26906455,
+          "sizeogg": 5951775,
+          "songid": 153541,
+          "songmid": "002Q4Jgw0dxWxt",
+          "songname": "练习",
+          "songorig": "练习",
+          "songtype": 0,
+          "strMediaMid": "002Q4Jgw0dxWxt",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "d0011dvx6mp"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "153579",
+          "Fstatus": "1",
+          "Fvid": "d0011dvx6mp"
+        }
+      },
+      {
+        "Flisten_count1": "103108361",
+        "Fupload_time": "2007-12-06 11:53:46",
+        "index": 9,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "《兄弟》电影主题曲",
+          "albumid": 33445,
+          "albummid": "003H8fyC2COWJ4",
+          "albumname": "Everyone Is No.1",
+          "alertid": 11,
+          "belongCD": 18,
+          "cdIdx": 1,
+          "interval": 243,
+          "isonly": 0,
+          "label": "4611686153727246337",
+          "msgid": 0,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 0,
+            "payinfo": 0,
+            "payplay": 0,
+            "paytrackmouth": 0,
+            "paytrackprice": 0,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            },
+            {
+              "id": 143,
+              "mid": "003Nz2So3XXYek",
+              "name": "陈奕迅"
+            }
+          ],
+          "size128": 3896676,
+          "size320": 9719891,
+          "size5_1": 0,
+          "sizeape": 30987179,
+          "sizeflac": 31723597,
+          "sizeogg": 6265948,
+          "songid": 413859,
+          "songmid": "002TrbOP1iPSDf",
+          "songname": "兄弟",
+          "songorig": "兄弟",
+          "songtype": 0,
+          "strMediaMid": "002TrbOP1iPSDf",
+          "stream": 13,
+          "switch": 3227447,
+          "type": 0,
+          "vid": "o0012p09dyw"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "200722",
+          "Fstatus": "1",
+          "Fvid": "o0012p09dyw"
+        }
+      },
+      {
+        "Flisten_count1": "102843070",
+        "Fupload_time": "2005-12-06 10:46:44",
+        "index": 10,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 8331,
+          "albummid": "001EOjJJ4ZlZef",
+          "albumname": "真永远",
+          "alertid": 100002,
+          "belongCD": 6,
+          "cdIdx": 0,
+          "interval": 228,
+          "isonly": 1,
+          "label": "4611686018435776513",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 3650229,
+          "size320": 9125286,
+          "size5_1": 0,
+          "sizeape": 21682652,
+          "sizeflac": 21804615,
+          "sizeogg": 4936356,
+          "songid": 99388,
+          "songmid": "002MDYgD4K8bx4",
+          "songname": "今天",
+          "songorig": "今天",
+          "songtype": 0,
+          "strMediaMid": "004fEebr1ZCPWC",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "i0011sgqhzw"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "153619",
+          "Fstatus": "1",
+          "Fvid": "i0011sgqhzw"
+        }
+      },
+      {
+        "Flisten_count1": "102413100",
+        "Fupload_time": "2006-08-23 10:24:38",
+        "index": 11,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 13628,
+          "albummid": "0037KtUw0RDrLy",
+          "albumname": "谢谢你的爱",
+          "alertid": 11,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 280,
+          "isonly": 0,
+          "label": "4611686018435776513",
+          "msgid": 0,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 0,
+            "payinfo": 0,
+            "payplay": 0,
+            "paytrackmouth": 0,
+            "paytrackprice": 0,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 97780,
+            "tryend": 140800,
+            "trysize": 689213
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 4481903,
+          "size320": 11199418,
+          "size5_1": 0,
+          "sizeape": 28965548,
+          "sizeflac": 29213004,
+          "sizeogg": 6245882,
+          "songid": 153828,
+          "songmid": "002dOuqi1jL6DW",
+          "songname": "谢谢你的爱 (国语)",
+          "songorig": "谢谢你的爱",
+          "songtype": 0,
+          "strMediaMid": "002dOuqi1jL6DW",
+          "stream": 13,
+          "switch": 3223351,
+          "type": 0,
+          "vid": "j0011w9uoju"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "156881",
+          "Fstatus": "1",
+          "Fvid": "j0011w9uoju"
+        }
+      },
+      {
+        "Flisten_count1": "102232810",
+        "Fupload_time": "2014-09-02 19:09:38",
+        "index": 12,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 8268,
+          "albummid": "000fCODN0c3YPn",
+          "albumname": "笨小孩 国语精选[1993-1998]",
+          "alertid": 100002,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 241,
+          "isonly": 1,
+          "label": "4611686153727246337",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            },
+            {
+              "id": 4296,
+              "mid": "001b1NjR4eIpSV",
+              "name": "柯受良"
+            },
+            {
+              "id": 4300,
+              "mid": "002sHBwR1Siazz",
+              "name": "吴宗宪"
+            }
+          ],
+          "size128": 3867152,
+          "size320": 9667590,
+          "size5_1": 0,
+          "sizeape": 24056589,
+          "sizeflac": 24761954,
+          "sizeogg": 5382013,
+          "songid": 7238627,
+          "songmid": "002D0bHt3zZrIr",
+          "songname": "笨小孩",
+          "songorig": "笨小孩",
+          "songtype": 0,
+          "strMediaMid": "002D0bHt3zZrIr",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "q0012qy4ljb"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "207654",
+          "Fstatus": "1",
+          "Fvid": "q0012qy4ljb"
+        }
+      },
+      {
+        "Flisten_count1": "102191470",
+        "Fupload_time": "2006-08-23 10:24:10",
+        "index": 13,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 13626,
+          "albummid": "002wTfmy23tG4V",
+          "albumname": "天意",
+          "alertid": 100002,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 271,
+          "isonly": 1,
+          "label": "4611686018427387905",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 4337707,
+          "size320": 10916565,
+          "size5_1": 0,
+          "sizeape": 27240812,
+          "sizeflac": 28535885,
+          "sizeogg": 5975717,
+          "songid": 153798,
+          "songmid": "001WkVfG3IV2vp",
+          "songname": "天意",
+          "songorig": "天意",
+          "songtype": 0,
+          "strMediaMid": "001WkVfG3IV2vp",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "w0026ue8tog"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1458149",
+          "Fstatus": "1",
+          "Fvid": "w0026ue8tog"
+        }
+      },
+      {
+        "Flisten_count1": "102099520",
+        "Fupload_time": "2014-04-15 18:01:59",
+        "index": 14,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 477051,
+          "albummid": "0025XbZA3KoRzY",
+          "albumname": "刘德华 99演唱会",
+          "alertid": 11,
+          "belongCD": 31,
+          "cdIdx": 1,
+          "interval": 291,
+          "isonly": 0,
+          "label": "4611686153723052033",
+          "msgid": 0,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 0,
+            "payinfo": 0,
+            "payplay": 0,
+            "paytrackmouth": 0,
+            "paytrackprice": 0,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 4657529,
+          "size320": 11643508,
+          "size5_1": 0,
+          "sizeape": 30339369,
+          "sizeflac": 30423564,
+          "sizeogg": 6610673,
+          "songid": 5355845,
+          "songmid": "0049Avqx2ZKtUy",
+          "songname": "爱你一万年 (录音室版新曲)",
+          "songorig": "爱你一万年",
+          "songtype": 0,
+          "strMediaMid": "004RSmrI2QptaY",
+          "stream": 13,
+          "switch": 3227447,
+          "type": 0,
+          "vid": "a0023fim9xp"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1283630",
+          "Fstatus": "1",
+          "Fvid": "a0023fim9xp"
+        }
+      },
+      {
+        "Flisten_count1": "102027604",
+        "Fupload_time": "2008-02-02 11:02:38",
+        "index": 15,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 33846,
+          "albummid": "00045jMv2hcbmO",
+          "albumname": "Wonderful World 2007香港演唱会",
+          "alertid": 11,
+          "belongCD": 10,
+          "cdIdx": 0,
+          "interval": 226,
+          "isonly": 0,
+          "label": "4611703473178673154",
+          "msgid": 0,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 0,
+            "payinfo": 0,
+            "payplay": 0,
+            "paytrackmouth": 0,
+            "paytrackprice": 0,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 163,
+              "mid": "003aQYLo2x8izP",
+              "name": "刘德华"
+            }
+          ],
+          "size128": 3630018,
+          "size320": 9058397,
+          "size5_1": 0,
+          "sizeape": 25033038,
+          "sizeflac": 25341655,
+          "sizeogg": 5160898,
+          "songid": 874881,
+          "songmid": "003dIM7m02Fpo9",
+          "songname": "暗里着迷 (Live)",
+          "songorig": "暗里着迷",
+          "songtype": 0,
+          "strMediaMid": "003dIM7m02Fpo9",
+          "stream": 13,
+          "switch": 3227447,
+          "type": 0,
+          "vid": "o0022msgvc9"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1068804",
+          "Fstatus": "1",
+          "Fvid": "o0022msgvc9"
+        }
+      }
+    ],
+    "mvTotal": 1208,
+    "mvlist": [
+      {
+        "duration": 189,
+        "mvid": 1398327,
+        "playcnt": 21263,
+        "pubdate": "2017-11-16",
+        "title": "如果你是我的传说 2011 Unforgettable 中国巡回演唱会",
+        "vid": "n0025lm7kwk"
+      },
+      {
+        "duration": 445,
+        "mvid": 1398326,
+        "playcnt": 19358,
+        "pubdate": "2017-11-16",
+        "title": "独自去偷欢 & 倒转地球 & 开心的马骝 2008东亚华星演唱会",
+        "vid": "k0025jcctb0"
+      },
+      {
+        "duration": 306,
+        "mvid": 1398325,
+        "playcnt": 17051,
+        "pubdate": "2017-11-16",
+        "title": "爱你一万年 2011 Unforgettable 中国巡回演唱会",
+        "vid": "b0025qzox1k"
+      },
+      {
+        "duration": 684,
+        "mvid": 1397417,
+        "playcnt": 9827,
+        "pubdate": "2017-11-09",
+        "title": "现场演唱募捐 星光熠熠耀保良 1995年9月",
+        "vid": "j00250l8pbw"
+      }
+    ],
+    "singer_id": "163",
+    "singer_mid": "003aQYLo2x8izP",
+    "singer_name": "刘德华",
+    "total": 1076
+  },
+  "message": "succ",
+  "subcode": 0
+}

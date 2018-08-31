@@ -1,0 +1,146 @@
+{
+  "code": 0,
+  "hotSingerList":[
+    {
+      "title": "热门华语歌手",
+      "area":"中国",
+      "show": true,
+      "Singerlist": [
+        {
+          "singerImg": "25NhlN2yWrP4",
+          "singerName": "周杰伦",
+          "singerId": "4558"
+        },
+        {
+          "singerImg": "3Nz2So3XXYek",
+          "singerName": "陈奕迅",
+          "singerId": "143"
+        },
+        {
+          "singerImg": "1BLpXF2DyJe2",
+          "singerName": "林俊杰",
+          "singerId": "4286"
+        },
+        {
+          "singerImg": "0aHmbL2aPXWH",
+          "singerName": "李荣浩",
+          "singerId": "60505"
+        },
+        {
+          "singerImg": "2J4UUk29y8BY",
+          "singerName": "薛之谦",
+          "singerId": "5062"
+        },
+        {
+          "singerImg": "2azErJ0UcDN6",
+          "singerName": "张杰",
+          "singerId": "6499"
+        },
+        {
+          "singerImg": "3tMm0y0TuewY",
+          "singerName": "杨宗纬",
+          "singerId": "11608"
+        },
+        {
+          "singerImg": "2Vcz8F2hpBQj",
+          "singerName": "华晨宇",
+          "singerId": "163550"
+        }
+      ]
+    },
+    {
+      "title": "热门欧美歌手",
+      "area":"欧美",
+      "show": true,
+      "Singerlist": [
+        {
+          "singerImg": "1JuGrt372YIQ",
+          "singerName": "Maroon5",
+          "singerId": "4983"
+        },
+        {
+          "singerImg": "2DYpxl3hW3EP",
+          "singerName": "Justin Bieber",
+          "singerId": "16257"
+        },
+        {
+          "singerImg": "20PeOh4ZaCw1",
+          "singerName": "Alan Walker",
+          "singerId": "944940"
+        },
+        {
+          "singerImg": "1Ic36m4AhaBw",
+          "singerName": "Avril Lavigne",
+          "singerId": "4417"
+        },
+        {
+          "singerImg": "0qrPik2w6lDr",
+          "singerName": "Taylor Swift",
+          "singerId": "11921"
+        },
+        {
+          "singerImg": "2uNtOf2Xj5eB",
+          "singerName": "Westlife",
+          "singerId": "4404"
+        },
+        {
+          "singerImg": "0yDAjj2TE9j8",
+          "singerName": "Eminem",
+          "singerId": "4880"
+        },
+        {
+          "singerImg": "4eTCF03KvBOE",
+          "singerName": "Ariana Grande",
+          "singerId": "38418"
+        }
+      ]
+    },
+    {
+      "title": "热门日韩歌手",
+      "area":"日韩",
+      "show": true,
+      "Singerlist": [
+        {
+          "singerImg": "4AlfUb0cVkN1",
+          "singerName": "BIGBANG",
+          "singerId": "11733"
+        },
+        {
+          "singerImg": "06cJUQ4J3AUY",
+          "singerName": "첸 (Chen)",
+          "singerId": "177218"
+        },
+        {
+          "singerImg": "09wlWe44mnmQ",
+          "singerName": "케이윌 ",
+          "singerId": "11353"
+        },
+        {
+          "singerImg": "3jh3mG1KVEgD",
+          "singerName": "花澤香菜 ",
+          "singerId": "20178"
+        },
+        {
+          "singerImg": "2uVveG0gdqAd",
+          "singerName": "백지영",
+          "singerId": "5470"
+        },
+        {
+          "singerImg": "3XPv0w1P6iwv",
+          "singerName": "린 (LYn)",
+          "singerId": "5273"
+        },
+        {
+          "singerImg": "2FliHF1E1pv4",
+          "singerName": "ONE OK ROCK",
+          "singerId": "12168"
+        },
+        {
+          "singerImg": "1TpDgn4SxyJn",
+          "singerName": "방탄소년단 ",
+          "singerId": "162691"
+        }
+      ]
+    }
+]
+}

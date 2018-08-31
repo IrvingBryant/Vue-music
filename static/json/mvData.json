@@ -1,0 +1,76 @@
+{
+  "data": {
+    "code": 0,
+    "subcode": 0,
+    "message": "MV数据",
+    "default": 0,
+    "mvList": [
+      {
+        "icon":"1",
+        "url": "http://hc.yinyuetai.com/uploads/videos/common/E8A90160C0B108730F020F7BA435EA56.mp4?sc=8df6909fff82f666",
+        "userName": "长大云音乐",
+        "mvTit": "体面 电影《前任3:再见前任》插曲",
+        "clickTime":0,
+        "like": 1521,
+        "discuss": 120,
+        "whoPublish": "长大云之音",
+        "showLike":true
+      },
+      {
+        "icon":"2",
+        "url": "http://hc.yinyuetai.com/uploads/videos/common/905801607C12BA6CEB7DB4D6F3FE7DD1.mp4?sc=507c4446215aa941",
+        "userName": "长大云音乐",
+        "mvTit": "Suger Maroon 5 ",
+        "clickTime":0,
+        "like": 6913,
+        "discuss": 1011,
+        "whoPublish": "长大云之音",
+        "showLike":true
+      },
+      {
+        "icon":"3",
+        "url": "http://hc.yinyuetai.com/uploads/videos/common/2267015CD3CFCF4DA2CBEC6A7B53E7FA.mp4?sc=c4874bab34d47fc6",
+        "userName": "长大云音乐",
+        "mvTit": " Something Just Like This (Tokyo Remix) Coldplay&The Chainsmokers",
+        "clickTime":0,
+        "like": 6801,
+        "discuss": 9999,
+        "whoPublish": "长大云之音",
+        "showLike":true
+      },
+      {
+        "icon":"4",
+        "url": "http://hc.yinyuetai.com/uploads/videos/common/CD82015BB41549381C0CF751ED149089.mp4?sc=575b6650c1d4991d",
+        "userName": "长大云音乐",
+        "mvTit": "I’m the One-Lil Wayne&Justin Bieber&DJ Khaled&Chance The Rapper&Quavo",
+        "clickTime":0,
+        "like": 1203,
+        "discuss": 1011,
+        "whoPublish": "长大云之音",
+        "showLike":true
+      },
+      {
+        "icon":"5",
+        "url": "http://hc.yinyuetai.com/uploads/videos/common/0B2A0161040360AF59CFA9BA1BB14148.mp4?sc=ce7c1006d8e7a594",
+        "userName": "长大云音乐",
+        "mvTit": "王者归来 只问盛放 - 王力宏专访",
+        "clickTime":0,
+        "like": 120,
+        "discuss": 101,
+        "whoPublish": "长大云之音",
+        "showLike":true
+      },
+      {
+        "icon":"6",
+        "url": "http://hc.yinyuetai.com/uploads/videos/common/A14101611244F8737853EDFA073060FC.mp4?sc=d9bc90e521b6cdc5",
+        "userName": "长大云音乐",
+        "mvTit": "演员 无伴奏版",
+        "clickTime":0,
+        "like": 1203,
+        "discuss": 1011,
+        "whoPublish": "长大云之音",
+        "showLike":true
+      }
+    ]
+  }
+}

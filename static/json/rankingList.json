@@ -1,0 +1,153 @@
+{
+  "data": {
+    "singer_mid": "http://p.qpic.cn/music_cover/z8wAFqicQ1qhImeiajkrgiaR4hYM3pzsUULFnicXshFXdw9uGkm261Ex9g/300?n=1",
+    "fans": "611887",
+    "listDesc":"纳尼？这些华语歌手竟然会唱日语歌！",
+    "listOwner":"悟空丶",
+    "list": [
+      {
+        "musicData": {
+          "albumdesc": "DUO陈奕迅2010演唱会",
+          "albummid": "0013j8zs1jRnLQ",
+          "songmid": "0048ukdm41wbsh",
+          "songname": "Mr Lonely (Live)",
+          "singer": [
+            {
+              "name": "陈奕迅"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "长沙大学演唱会",
+          "albummid": "0026xuAw3UkEuz",
+          "songmid": "000Bvmdh0sB3wx",
+          "songname": "世界が終るまでは… (直到世界尽头)",
+          "singer": [
+            {
+              "name": "佘阳"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "暧昧（日文版）",
+          "albummid": "003D17OJ0mh5uA",
+          "songmid": "000uID4Z47cx9h",
+          "songname": "暧昧",
+          "singer": [
+            {
+              "name": "杨丞琳"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "海阔天空",
+          "albummid": "004CLlFV0mj6fC",
+          "songmid": "001PeJps37WoGW",
+          "songname": "遥かなる梦に Far away (遥远的梦 Far away)",
+          "singer": [
+            {
+              "name": "BEYOND"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "再见我的爱 精选",
+          "albummid": "0004Xx211ImYFN",
+          "songmid": "003kThFR1JypiT",
+          "songname": "時の流れに身をまかせ (任时光从身边流逝)",
+          "singer": [
+            {
+              "name": "邓丽君"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "All My Words",
+          "albummid": "003Ica9D3SHABG",
+          "songmid": "003vYfpZ4EezEl",
+          "songname": "どこまでも ひろがる空に向かって (无论在何地都向着广阔天空)",
+          "singer": [
+            {
+              "name": "刘亦菲"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "2005厉害演唱会全记录精选",
+          "albummid": "002YNR3J188xWt",
+          "songmid": "000vEse41c28Rt",
+          "songname": "挪威的森林(Live)",
+          "singer": [
+            {
+              "name": "伍佰"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "诗遇上歌",
+          "albummid": "000wnEGB2OnTNh",
+          "songmid": "004WZ2yI2QlxWx",
+          "songname": "枯木",
+          "singer": [
+            {
+              "name": "程璧"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "All My Words",
+          "albummid": "003Ica9D3SHABG",
+          "songmid": "0033qhnF3Wm3GT",
+          "songname": "Close To Me",
+          "singer": [
+            {
+              "name": "刘亦菲"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "唯一EP",
+          "albummid": "001KJo3n0TfX3H",
+          "songmid": "000odCPn0Y5ySN",
+          "songname": "唯一(日文版)",
+          "singer": [
+            {
+              "name": "王力宏"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "长沙大学演唱会",
+          "albummid": "0026xuAw3UkEuz",
+          "songmid": "002iIgHc2fjZa2",
+          "songname": "君が好きだと叫びたい (好想大声说喜欢你).",
+          "singer": [
+            {
+              "name": "佘阳"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

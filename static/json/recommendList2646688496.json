@@ -1,0 +1,193 @@
+{
+  "data": {
+    "singer_mid": " http://p.qpic.cn/music_cover/1Fr9IFMhWDPeUzWKVEjn3QTL2eX2QziaJmaL0ZAmsvtW71ic9IDUoYzg/300?n=1",
+    "fans": "7733134",
+    "listDesc":"催泪大杀器！盘点演唱会经典万人大合唱",
+    "listOwner":"Irving Yang",
+    "list": [
+      {
+        "musicData": {
+          "albumdesc": "周杰伦2004无与伦比演唱会",
+          "albummid": "0032ezFm3F53yO",
+          "songmid": "001DRanB3UPdNQ",
+          "songname": "七里香(Live)",
+          "singer": [
+            {
+              "name": "周杰伦"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "你是我的骄傲演唱会",
+          "albummid": "001jDc1M0WAthx",
+          "songmid": "001jz1dR0F4vUX",
+          "songname": "谢谢你的爱(Live)",
+          "singer": [
+            {
+              "name": "刘德华"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "脱掉高跟鞋世界巡回演唱会",
+          "albummid": "0015C8re2FbXdI",
+          "songmid": "003wqVTT1EMzxR",
+          "songname": "后来 (Live)",
+          "singer": [
+            {
+              "name": "刘若英"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "Start世界巡回演唱会",
+          "albummid": "003nkrW42K3FLd",
+          "songmid": "002PGV7J2NhfLU",
+          "songname": "开始懂了(Live)",
+          "singer": [
+            {
+              "name": "孙燕姿"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "张国荣告别乐坛演唱会",
+          "albummid": "0032Bp8Y0IsARp",
+          "songmid": "000nabdy2vrA0S",
+          "songname": "倩女幽魂(Live)",
+          "singer": [
+            {
+              "name": "张国荣"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "2005厉害演唱会全记录精选",
+          "albummid": "002YNR3J188xWt",
+          "songmid": "000vEse41c28Rt",
+          "songname": "挪威的森林(Live)",
+          "singer": [
+            {
+              "name": "伍佰"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "林俊杰2013上海演唱会",
+          "albummid": "000KzVUN1wEZge",
+          "songmid": "003Q9asw1NivAs",
+          "songname": "豆浆油条(Live)",
+          "singer": [
+            {
+              "name": "林俊杰"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "你是我的骄傲演唱会",
+          "albummid": "001jDc1M0WAthx",
+          "songmid": "003FgOrk1s89EU",
+          "songname": "冰雨(Live)",
+          "singer": [
+            {
+              "name": "刘德华"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "张学友1/2世纪演唱会",
+          "albummid": "002Jifz31CdNCA",
+          "songmid": "002Exp053SHScp",
+          "songname": "吻别(Live)",
+          "singer": [
+            {
+              "name": "张学友"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "你是我的骄傲演唱会",
+          "albummid": "001jDc1M0WAthx",
+          "songmid": "001jz1dR0F4vUX",
+          "songname": "谢谢你的爱(Live)",
+          "singer": [
+            {
+              "name": "刘德华"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "林俊杰2013上海演唱会",
+          "albummid": "000KzVUN1wEZge",
+          "songmid": "003MwvH92I1A3n",
+          "songname": "爱笑的眼睛(Live)",
+          "singer": [
+            {
+              "name": "林俊杰"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "2006王力宏盖世英雄演唱会",
+          "albummid": "002TBnpC1KynDc",
+          "songmid": "003KZqn42Zn4zq",
+          "songname": "唯一(Live)",
+          "singer": [
+            {
+              "name": "王力宏"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "周杰伦摩天轮世界巡回演唱会",
+          "albummid": "004c8Md02WHHju",
+          "songmid": "001FPOIM20siE6",
+          "songname": "开不了口(Live)",
+          "singer": [
+            {
+              "name": "周杰伦"
+            }
+          ]
+        }
+      },
+      {
+        "musicData": {
+          "albumdesc": "莫文蔚巡回演唱会",
+          "albummid": "004Ux3Xr3KlfH4",
+          "songmid": "0024KQGi2zr0eL",
+          "songname": "阴天(Live)",
+          "singer": [
+            {
+              "name": "莫文蔚"
+            }
+          ]
+        }
+      }
+
+    ]
+  }
+}
